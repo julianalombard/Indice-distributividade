@@ -2,7 +2,7 @@
 
 **Juliana Lombard Souza**
 
-Este algoritmo calcula o Índice de Distributividade de uma rede viária, representada por um arquivo shapefile de linhas (.shp). O índice compara o grau de conectividade da malha viária da rede real (número de ciclos) com a de uma grelha perfeita de referência com o mesmo número de nós, fornecendo uma métrica de quão eficiente é a rede.
+Este algoritmo calcula o Índice de Distributividade de uma rede viária a partir de um arquivo shapefile de linhas (.shp). O índice compara o grau de conectividade da malha viária da rede real (número de ciclos) com a de uma grelha perfeita de referência com o mesmo número de nós, fornecendo uma métrica de quão eficiente é a rede.
 
 ## Funcionalidades
 
