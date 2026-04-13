@@ -78,7 +78,7 @@ Distributividade é uma propriedade das redes espaciais caracterizada pela exist
 *   Um sistema é distributivo quando, para um par qualquer de nós, há mais de um caminho possível, sendo a quantidade de caminhos uma denotação do grau dessa distributividade.
 *   Distributividade é oportunizada fundamentalmente pelos circuitos fechados. 
 
-O Índice de Distributividade é uma métrica que varia de 0 a 1 e mede o quão conectada é uma rede em comparação com uma grelha de referência ideal.
+O Índice de Distributividade mede o quão conectada é uma rede em comparação com uma grelha de referência ideal. A situação de distributividade mínima é a da inexistência de ciclos fechados, o que resultaria num valor ciclomático de zero. Já o máximo é indeterminado, variando de acordo com o número de nós e de arestas do sistema.
 
 *   Quanto mais próximo de 1, mais a rede se assemelha a uma malha retangular, com múltiplos caminhos e ciclos.
 *   Quanto mais próximo de 0, mais ela se assemelha a uma árvore, com poucos ou nenhum ciclo.
