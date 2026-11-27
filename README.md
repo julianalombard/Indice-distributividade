@@ -186,4 +186,4 @@ KRAFTA, R. **Notas de Aula de Morfologia Urbana**. Porto Alegre: UFRGS, 2014. p.
 
 MIT License
 
-Citation: SOUZA, J.L. (2026) Índice de Distributividade (Version 1.1) [Software]. Zenodo. https://doi.org/10.5281/10.5281/zenodo.24574096
+Citation: SOUZA, J.L. (2026) Índice de Distributividade (Version 1.1) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24574096
